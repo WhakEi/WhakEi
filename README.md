@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **WhakEi/WhakEi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I like making programs and mods when I don't find one that I want.
+That's it for now...
